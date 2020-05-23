@@ -23,4 +23,3 @@ ggp <- ggplot(combustionNEI,aes(factor(year),Emissions/10^5)) +
 print(ggp)
 
 dev.off()
-
