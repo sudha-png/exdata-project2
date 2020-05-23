@@ -17,4 +17,3 @@ barplot(
 )
 
 dev.off()
-
