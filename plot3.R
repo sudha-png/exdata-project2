@@ -24,4 +24,3 @@ ggp <- ggplot(baltimoreNEI,aes(factor(year),Emissions,fill=type)) +
 print(ggp)
 
 dev.off()
-
